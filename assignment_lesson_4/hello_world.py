@@ -9,6 +9,4 @@
 # "Hello World I Love Python!"
 
 # WRITE CODE HERE:
-print("Hello world")
-print("Hello World I Love Python!
-")
+print("Hello world I love Python!")
